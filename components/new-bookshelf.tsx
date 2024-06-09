@@ -28,7 +28,7 @@ export function NewBookshelf({ bookshelf }: { bookshelf: Bookshelf }) {
       <div className="max-w-4xl w-full px-4 md:px-6">
         <div className="flex my-4 lg:my-8 justify-center items-center">
           <BookshelfIcon className="dark:fill-white"/>
-          <h1 className="text-3xl mx-4 font-bold">{`My bookshelf`}</h1>
+          <h1 className="text-3xl mx-4 font-bold">{`Furkan's Bookshelf`}</h1>
         </div>
         <div className="my-4 lg:my-8 flex flex-col place-items-center">
           <h2 className="text-lg font-light mb-4 text-center">{bookshelf.overview}</h2>
