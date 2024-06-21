@@ -2,7 +2,7 @@ current:
   -
     title: İrrasyonel
     author: Stuart Sutherland
-    start: 2024-06-21
+    start: 2024-06-22
     externalLink: https://domingo.com.tr/products/irrasyonel
     cover: /covers/irrasyonel.jpg
 archive:
@@ -17,7 +17,7 @@ archive:
   -
     title: Hayvan Çiftliği
     author: George Orwell
-    externalLink: https://www.amazon.com.tr/dp/6054054201
+    externalLink: https://www.kitapyurdu.com/kitap/hayvan-ciftligi-ciltsiz/30574.html
     start: 2024-06-09
     cover: /covers/hayvan_ciftligi.jpg
     end: 2024-06-21
