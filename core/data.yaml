@@ -7,14 +7,6 @@ current:
     cover: /covers/irrasyonel.jpg
 archive:
   -
-    title: İnsanın Anlam Arayışı
-    author: Viktor E. Frankl
-    start: 2024-05-21
-    externalLink: https://www.amazon.com.tr/dp/6054054201
-    cover: /covers/insanin_anlam_arayisi.jpg
-    end: 2024-05-24
-    rating: 5
-  -
     title: Hayvan Çiftliği
     author: George Orwell
     externalLink: https://www.kitapyurdu.com/kitap/hayvan-ciftligi-ciltsiz/30574.html
@@ -22,3 +14,12 @@ archive:
     cover: /covers/hayvan_ciftligi.jpg
     end: 2024-06-21
     rating: 5
+  -
+    title: İnsanın Anlam Arayışı
+    author: Viktor E. Frankl
+    start: 2024-05-21
+    externalLink: https://www.amazon.com.tr/dp/6054054201
+    cover: /covers/insanin_anlam_arayisi.jpg
+    end: 2024-05-24
+    rating: 5
+  
